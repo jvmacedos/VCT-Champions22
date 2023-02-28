@@ -1,4 +1,4 @@
-<img src="https://static.valorantzone.gg/news/2022/05/13120356/VCT22_Location_Announcement_Champions.jpg" height="200" width="700">
+<img src="https://static.valorantzone.gg/news/2022/05/13120356/VCT22_Location_Announcement_Champions.jpg" height="200" width="1500">
 
 # Project VCT Champions 2022
 
