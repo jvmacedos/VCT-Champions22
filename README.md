@@ -1,3 +1,5 @@
+<img src="https://static.valorantzone.gg/news/2022/05/13120356/VCT22_Location_Announcement_Champions.jpg">
+
 # Project VCT Champions 2022
 
 ## Why I did this project? 
